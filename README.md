@@ -110,9 +110,9 @@ Exercise Six
 
 Make a copy of your ```ex05``` directory, naming your copy ```ex06```. Close all open editor tabs and reopen them from the ```ex06``` directory.
 
-Modify each of your 3 genre rows so that underneath the header an image and text block will appear side-by-side. The image should contain some album art (or a filler image), and the text along side it should give a description/synopsis of the album. Modify the image so that it appears to be circular - *HINT*: look into ```border-radius```. 
+Modify each of your 3 genre rows so that underneath the header an image will appear side-by-side with 4 paragraphs of text. The image should contain some album art (or a filler image). Modify the image so that it appears to be circular - *HINT*: look into ```border-radius```. 
 
-Underneath each image/text line, insert another 2 paragraphs of lorem ipsum text.
+You should alternate the positions of the images in your genre rows so that they are positioned on the left then the right.
 
 When complete, each genre block should look similar to the below.
 
@@ -124,14 +124,6 @@ Exercise Seven
 
 Make a copy of your ```ex06``` directory, naming your copy ```ex07```. Close all open editor tabs and reopen them from the ```ex07``` directory.
 
-Modify your second genre row (3rd content row) so that the side-by-side image and text swap positions. The result should have the image on the right hand side of the pane for that row only.
-
-
-Exercise Eight
---------
-
-Make a copy of your ```ex07``` directory, naming your copy ```ex08```. Close all open editor tabs and reopen them from the ```ex08``` directory.
-
 Make the necessary changes to the ```style.css``` file so that if the width of the window drops below 1000px, the content rows occupy the full-width of the window with no whitespace around them.
 
 Make further changes so that when the width of the window drops below 768px, the horizontal album image and text contents transform so that the image appears below the album text, but above the following lorem ipsum text.
@@ -139,14 +131,6 @@ Make further changes so that when the width of the window drops below 768px, the
 When complete, your page may look something like this.
 
 ![](./spec/ex08-screenshot.png)
-
-
-
-
-
-
-
-
 
 
 Extension [Optional]
