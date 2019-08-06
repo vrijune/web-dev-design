@@ -126,7 +126,7 @@ Make a copy of your ```ex06``` directory, naming your copy ```ex07```. Close all
 
 Make the necessary changes to the ```style.css``` file so that if the width of the window drops below 1000px, the content rows occupy the full-width of the window with no whitespace around them.
 
-Make further changes so that when the width of the window drops below 768px, the horizontal album image and text contents transform so that the image appears below the album text, but above the following lorem ipsum text.
+Make further changes so that when the width of the window drops below 768px, the horizontal album image and text contents transform so that the image appears belpw the heading and centered, but above the following lorem ipsum text.
 
 When complete, your page may look something like this.
 
